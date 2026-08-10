@@ -16,7 +16,7 @@ int main (){
        
       
       }
-      cout<<"\n The sum is: "<<sum;
+      cout<<"\nThe sum is: "<<sum;
     
     
   }
